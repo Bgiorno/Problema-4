@@ -3,7 +3,7 @@
 """
 Created on Thu Jun 26 18:38:26 2025
 
-@author: jack
+Jorge Salas C17105
 """
 
 # -*- coding: utf-8 -*-
@@ -11,14 +11,6 @@ Created on Thu Jun 26 18:38:26 2025
 Simulación EFM para muestras dieléctricas hemisféricas
 Basado en: Gómez et al. (2010) - Estimación de carga superficial mediante EFM
 
-Estructura:
-1. Importación de librerías
-2. Constantes físicas y parámetros
-3. Cálculo de potencial electrostático
-4. Cálculo de campos eléctricos
-5. Funciones de densidad de carga
-6. Integración numérica
-7. Visualización de resultados
 """
 
 
